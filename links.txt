@@ -1,0 +1,23 @@
+KALI Linux:
+https://www.kali.org/downloads/
+
+Windows 10 trial VMWARE image
+https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
+
+Win32 Disk Imager:
+https://sourceforge.net/projects/win32diskimager/
+
+Metasploitable:
+https://metasploit.help.rapid7.com/docs/metasploitable-2
+
+Exploit Database:
+https://www.exploit-db.com/
+
+ProGuard:
+https://www.guardsquare.com/en/products/proguard
+
+Pentest.ws:
+https://pentest.ws/
+
+No IP:
+noip.com
